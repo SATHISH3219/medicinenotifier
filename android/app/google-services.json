@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924936758325",
+    "project_id": "medicineapp-af48a",
+    "storage_bucket": "medicineapp-af48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924936758325:android:51ba9c1e8b6d8b1047fd7c",
+        "android_client_info": {
+          "package_name": "com.example.medicinenotifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4vZtwzkBjNy2JJQtKv3AgUv2K-asUpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
